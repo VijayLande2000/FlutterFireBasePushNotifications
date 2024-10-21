@@ -15,7 +15,7 @@ class FireBaseApi {
   static final GlobalKey<NavigatorState> navigatorKey = GlobalKey<NavigatorState>();
 
   static const AndroidNotificationChannel _channel = AndroidNotificationChannel(
-    'high_importance_channelsssssssssssssss',
+    'high_importance_channel',
     'High Importance Notifications',
     importance: Importance.max,
     playSound: true,
