@@ -135,6 +135,8 @@ class FireBaseApi {
         navigatorKey.currentState?.pushNamed('/');
     }
   }
+
+
 }
 
 class ScreenPayload {
